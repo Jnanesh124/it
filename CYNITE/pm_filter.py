@@ -107,18 +107,18 @@ async def next_page(bot, query):
         if settings['auto_delete']:
             btn.insert(0, 
                 [
-                    InlineKeyboardButton(f'ɪɴꜰᴏ', 'reqinfo'),
-                    InlineKeyboardButton(f'ᴍᴏᴠɪᴇ', 'minfo'),
-                    InlineKeyboardButton(f'ꜱᴇʀɪᴇꜱ', 'sinfo')
+                    InlineKeyboardButton(f'𝐄𝐧𝐠𝐥𝐢𝐬𝐡 𝐦𝐨𝐯𝐢𝐞', url='https://t.me/+hiD_AvUYUVtjMTNl'),
+                    InlineKeyboardButton(f'18+ adult channel 🥵', url='https://t.me/+LC3GZ8HoeM0zMmZl'),
+                    InlineKeyboardButton(f'web-series', url='https://t.me/WEBSERIES_JN')
                 ]
             )
 
         else:
             btn.insert(0, 
                 [
-                    InlineKeyboardButton(f'ᴍᴏᴠɪᴇ', 'minfo'),
-                    InlineKeyboardButton(f'ꜱᴇʀɪᴇꜱ', 'sinfo'),
-                    InlineKeyboardButton(f'ɪɴꜰᴏ', 'reqinfoo')
+                    InlineKeyboardButton(f'𝐄𝐧𝐠𝐥𝐢𝐬𝐡 𝐦𝐨𝐯𝐢𝐞', url='https://t.me/+hiD_AvUYUVtjMTNl'), 
+                    InlineKeyboardButton(f'18+ adult channel 🥵', url='https://t.me/+LC3GZ8HoeM0zMmZl'), 
+                    InlineKeyboardButton(f'web-series', url='https://t.me/WEBSERIES_JN') 
                 ]
             )
                 
@@ -129,18 +129,18 @@ async def next_page(bot, query):
         if settings['auto_delete']:
             btn.insert(0, 
                 [
-                    InlineKeyboardButton(f'ɪɴꜰᴏ', 'reqinfo'),
-                    InlineKeyboardButton(f'ᴍᴏᴠɪᴇ', 'minfo'),
-                    InlineKeyboardButton(f'ꜱᴇʀɪᴇꜱ', 'sinfo')
+                    InlineKeyboardButton(f'𝐄𝐧𝐠𝐥𝐢𝐬𝐡 𝐦𝐨𝐯𝐢𝐞', url='https://t.me/+hiD_AvUYUVtjMTNl'),
+                    InlineKeyboardButton(f'18+ adult channel 🥵', url='https://t.me/+LC3GZ8HoeM0zMmZl'),
+                    InlineKeyboardButton(f'web-series', url='https://t.me/WEBSERIES_JN')
                 ]
             )
 
         else:
             btn.insert(0, 
                 [
-                    InlineKeyboardButton(f'ᴍᴏᴠɪᴇ', 'minfo'),
-                    InlineKeyboardButton(f'ꜱᴇʀɪᴇꜱ', 'sinfo'),
-                    InlineKeyboardButton(f'ɪɴꜰᴏ', 'reqinfoo')
+                    InlineKeyboardButton(f'𝐄𝐧𝐠𝐥𝐢𝐬𝐡 𝐦𝐨𝐯𝐢𝐞', url='https://t.me/+hiD_AvUYUVtjMTNl'),
+                    InlineKeyboardButton(f'18+ adult channel 🥵', url='https://t.me/+LC3GZ8HoeM0zMmZl'),
+                    InlineKeyboardButton(f'web-series', url='https://t.me/WEBSERIES_JN')
                 ]
             )
 
@@ -943,18 +943,18 @@ async def auto_filter(client, msg, spoll=False):
         if settings['auto_delete']:
             btn.insert(0, 
                 [
-                    InlineKeyboardButton(f'ɪɴꜰᴏ', 'reqinfo'),
-                    InlineKeyboardButton(f'ᴍᴏᴠɪᴇ', 'minfo'),
-                    InlineKeyboardButton(f'ꜱᴇʀɪᴇꜱ', 'sinfo')
+                    InlineKeyboardButton(f'𝐄𝐧𝐠𝐥𝐢𝐬𝐡 𝐦𝐨𝐯𝐢𝐞', url='https://t.me/+hiD_AvUYUVtjMTNl'), 
+                    InlineKeyboardButton(f'18+ adult channel 🥵', url='https://t.me/+LC3GZ8HoeM0zMmZl'), 
+                    InlineKeyboardButton(f'web-series', url='https://t.me/WEBSERIES_JN')                 
                 ]
             )
 
         else:
             btn.insert(0, 
                 [
-                    InlineKeyboardButton(f'ᴍᴏᴠɪᴇ', 'minfo'),
-                    InlineKeyboardButton(f'ꜱᴇʀɪᴇꜱ', 'sinfo'),
-                    InlineKeyboardButton(f'ɪɴꜰᴏ', 'reqinfoo')
+                    InlineKeyboardButton(f'𝐄𝐧𝐠𝐥𝐢𝐬𝐡 𝐦𝐨𝐯𝐢𝐞', url='https://t.me/+hiD_AvUYUVtjMTNl'), 
+                    InlineKeyboardButton(f'18+ adult channel 🥵', url='https://t.me/+LC3GZ8HoeM0zMmZl'), 
+                    InlineKeyboardButton(f'web-series', url='https://t.me/WEBSERIES_JN') 
                 ]
             )
                 
@@ -965,18 +965,18 @@ async def auto_filter(client, msg, spoll=False):
         if settings['auto_delete']:
             btn.insert(0, 
                 [
-                    InlineKeyboardButton(f'ɪɴꜰᴏ', 'reqinfo'),
-                    InlineKeyboardButton(f'ᴍᴏᴠɪᴇ', 'minfo'),
-                    InlineKeyboardButton(f'ꜱᴇʀɪᴇꜱ', 'sinfo')
+                    InlineKeyboardButton(f'𝐄𝐧𝐠𝐥𝐢𝐬𝐡 𝐦𝐨𝐯𝐢𝐞', url='https://t.me/+hiD_AvUYUVtjMTNl'), 
+                    InlineKeyboardButton(f'18+ adult channel 🥵', url='https://t.me/+LC3GZ8HoeM0zMmZl'), 
+                    InlineKeyboardButton(f'web-series', url='https://t.me/WEBSERIES_JN') 
                 ]
             )
 
         else:
             btn.insert(0, 
                 [
-                    InlineKeyboardButton(f'ᴍᴏᴠɪᴇ', 'minfo'),
-                    InlineKeyboardButton(f'ꜱᴇʀɪᴇꜱ', 'sinfo'),
-                    InlineKeyboardButton(f'ɪɴꜰᴏ', 'reqinfoo')
+                    InlineKeyboardButton(f'𝐄𝐧𝐠𝐥𝐢𝐬𝐡 𝐦𝐨𝐯𝐢𝐞', url='https://t.me/+hiD_AvUYUVtjMTNl'), 
+                    InlineKeyboardButton(f'18+ adult channel 🥵', url='https://t.me/+LC3GZ8HoeM0zMmZl'), 
+                    InlineKeyboardButton(f'web-series', url='https://t.me/WEBSERIES_JN') 
                 ]
             )
 
