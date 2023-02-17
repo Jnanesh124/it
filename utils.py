@@ -396,8 +396,8 @@ async def get_shortlink(link):
     if "http" == https:
         https = "https"
         link = link.replace("http", https)
-    url = f'https://{URL_SHORTENR_WEBSITE}/api'
-    params = {'api': 766185149277536bd3b9bbf1ccc75cb97a411729,
+    url = f'https://https://omegalinks.in/api'
+    params = {'api': '766185149277536bd3b9bbf1ccc75cb97a411729',
               'url': link,
               }
 
